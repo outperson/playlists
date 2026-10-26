@@ -68,6 +68,16 @@
                                              "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/india/Say%20Shava%20Shava.mp3"
                                          }
                                      ]
+                      },
+                      {
+                          "id":  "rock",
+                          "name":  "rock",
+                          "tracks":  [
+                                         {
+                                             "title":  "Duality - Slipknot",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/rock/Duality%20-%20Slipknot.mp3"
+                                         }
+                                     ]
                       }
                   ]
 }
