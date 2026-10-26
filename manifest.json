@@ -4,6 +4,7 @@
                       {
                           "id":  "bass",
                           "name":  "Bass",
+                          "icon":  "icons/bass_84fb2881.png",
                           "description":  "Музыка с низкими басами / bass boosted. \n\nХорошо пробивает стены и перекрытия",
                           "tracks":  [
                                          {
